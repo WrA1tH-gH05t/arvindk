@@ -1,1 +1,1 @@
-
+This file has all of the tables in excel format that I used to transform in viz tool Power BI to create Vizualization to summarize the data.There were minimal cleaning processes required and all of them were applied before creating viz. in power bi.
